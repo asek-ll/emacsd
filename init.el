@@ -24,6 +24,11 @@
 
 (rp 'magit)
 
+(rp 'yasnippet)
+(yas-global-mode 1)
+(rp 'yasnippet-snippets)
+
+
 
 
 (load "~/.emacs.d/ligatures.el")
